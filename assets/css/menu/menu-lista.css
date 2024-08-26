@@ -1,0 +1,5 @@
+.cabecalho__navegacao__lista{
+    list-style-type: none;
+    display: flex;
+    gap: 2.0rem;
+}
