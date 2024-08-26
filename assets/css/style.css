@@ -2,3 +2,6 @@
 @import './menu/menu-lista.css';
 @import './menu/menu-item.css';
 @import './menu/menu-link.css';
+@import './banner/banner.css';
+@import './banner/banner-imagem.css';
+@import './banner/banner-titulo.css';
