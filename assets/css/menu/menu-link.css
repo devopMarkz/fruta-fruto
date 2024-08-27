@@ -2,6 +2,7 @@
     color: #808080;
     text-decoration: none;
     text-transform: lowercase;
+    white-space: nowrap;
 }
 
 .cabecalho__navegacao__lista__item__link:hover{
