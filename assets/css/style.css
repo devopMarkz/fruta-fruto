@@ -11,3 +11,11 @@
 @import './sobre/sobre.css';
 @import './sobre/sobre-titulo.css';
 @import './sobre/sobre-descricao.css';
+
+@import './receitas.css';
+@import './receita/receita.css';
+@import './receita/receita-imagem.css';
+@import './receita/receita-titulo.css';
+@import './receita/receita-descricao.css';
+@import './receita/receita-conteudo.css';
+@import './receita/receita-botao.css';
